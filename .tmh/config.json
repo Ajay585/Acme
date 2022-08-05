@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/develdjncthh/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "ce72fd24-0502-0000-632d-0b44434d2ddf",
+    "name": "Acme",
+    "key": "ACME"
+  }
+}
